@@ -3,8 +3,8 @@ package login;
 import java.sql.Connection; // Conexão com banco de dados
 import java.sql.DriverManager; // driver de conexao mysql
 import java.sql.ResultSet; // resultado das operacoes em banco de dados
-import java.sql.SQLException; // interpretacao dos comandos sql - crud
-import java.sql.Statement;
+import java.sql.SQLException; 
+import java.sql.Statement; // interpretacao dos comandos sql - crud
 
 
 public class Conexao {

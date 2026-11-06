@@ -12,3 +12,4 @@ create table usuario(
     senha char(32) default ''
 
 );
+
